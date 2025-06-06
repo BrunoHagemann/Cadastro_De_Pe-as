@@ -1,0 +1,11 @@
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\bin\Debug\Trabalho_Igor_P5.exe.config
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\bin\Debug\Trabalho_Igor_P5.exe
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\bin\Debug\Trabalho_Igor_P5.pdb
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.csproj.AssemblyReference.cache
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.Properties.Resources.resources
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.csproj.GenerateResource.cache
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.csproj.CoreCompileInputs.cache
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.exe
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.pdb
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.Cadastro.resources
+D:\User\Desktop\FACULDADEEEEE\3 simes\Banco_de_Dados_IGOR\Trabalho_Igor_P5\obj\Debug\Trabalho_Igor_P5.Pesquisa.resources
